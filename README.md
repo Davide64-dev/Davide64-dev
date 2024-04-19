@@ -1,4 +1,10 @@
-### Hi there 👋
+# Davide Teixeira
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davide64-dev&show_icons=true&theme=onedark&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davide64-dev&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+
 
 <!--
 **Davide64-dev/Davide64-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
