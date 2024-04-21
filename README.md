@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="assets/name.gif" alt="Name Image" />
+  <img src="name.gif" alt="Name Image" />
 </div>
 
 <div align="center">
