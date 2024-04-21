@@ -1,4 +1,7 @@
-# Davide Teixeira
+
+<div align="center">
+  <img src="assets/name.gif" alt="Name Image" />
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davide64-dev&show_icons=true&theme=onedark&include_all_commits=false&count_private=true"/>
